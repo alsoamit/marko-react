@@ -3,7 +3,7 @@ function Navbar() {
     <header>
       <nav>
         <div className="logo__wrap">
-          <img src=""></img>
+          <img src="/" alt=""></img>
           <h1>Marko</h1>
         </div>
         <button className="btn">New File</button>
